@@ -1,0 +1,91 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: aquamarine;
+}
+
+.header_div{
+    background-color: white;
+    color: turquoise;
+}
+.header_div img{
+    width: 100px;
+}
+
+.main_div{
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid black
+}
+.main_div label{
+    background-color: black;
+    color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px black;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px black;
+    border: 1px solid;
+}
+#camera{
+    border: 2px solid black;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+}
+
+.main_div2{
+    background-color: aqua;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid black
+}
+.main_div2 label{
+    background-color: black;
+    color: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px black;
+}
+.main_div2 button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px black;
+    border: 1px solid;
+}
+#result{
+    border: 2px solid black;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px black;
+}
+
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px black;
+    color: white;
+}
+.footer_div img{
+    width: 70px;
+    border-radius: 50px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
